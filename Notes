@@ -1,0 +1,8 @@
+This Repository deals with React props and States.
+Props: 
+Basically Props stands for Properties. Mailny used when needed to pass data between components Dynamically.
+This works to transfer data in one direction only.(Parent to Child)
+Not in two-direction. (Not able to pass from Child to Parent, but there are other ways to transfer).
+
+States:
+React has another special built-in object called state, which allows components to create and manage their own data. So unlike props, components cannot pass data with state, but they can create and manage it internally.
